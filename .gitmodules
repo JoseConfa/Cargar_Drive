@@ -1,0 +1,3 @@
+[submodule "Automatizacion"]
+	path = Automatizacion
+	url = https://github.com/JoseConfa/Automatizacion.git
